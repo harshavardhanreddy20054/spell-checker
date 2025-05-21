@@ -1,0 +1,50 @@
+🔤 Basic spelling mistakes
+
+
+Input:
+Ths is an exmple of a splel chcker  <----
+
+Expected Output:
+this is an example of a spell checker
+
+✏️ Common typos
+Input:
+I hve a dreem that one day every studnt will succed   <----
+
+Expected Output:
+i have a dream that one day every student will succeed
+
+⌨️ Missing letters / transposed letters
+Input:
+Teh quik borwn fox jmps oevr teh lzay dog   <----
+
+Expected Output:
+the quick brown fox jumps over the lazy dog
+
+📘 Short sentence with confusion
+Input:
+Hw r yu tody  <----
+
+Expected Output:
+how are you today
+
+🧠 Words with multiple close options
+Input:
+He went to the libary to studee   <----
+
+Expected Output:
+he went to the library to study
+
+💡 With some rare words
+Input:
+She recieved teh nobel prise for literatre   <----
+
+Expected Output:
+she received the nobel prize for literature
+
+🚧 For edge testing (small inputs)
+Input:
+Wrng    <----
+
+Expected Output:
+wrong
