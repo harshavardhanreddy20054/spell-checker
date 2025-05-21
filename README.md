@@ -82,7 +82,3 @@ This is an example sentence with spelling errors.
 ## Contribution
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
